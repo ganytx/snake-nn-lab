@@ -1,0 +1,9 @@
+C:/Users/Administrator/Desktop/vibetest/snake-nn-lab-main/build/CMakeFiles/snake_game.dir
+C:/Users/Administrator/Desktop/vibetest/snake-nn-lab-main/build/CMakeFiles/nn_selftest.dir
+C:/Users/Administrator/Desktop/vibetest/snake-nn-lab-main/build/CMakeFiles/bench_sim.dir
+C:/Users/Administrator/Desktop/vibetest/snake-nn-lab-main/build/CMakeFiles/bandit_check.dir
+C:/Users/Administrator/Desktop/vibetest/snake-nn-lab-main/build/CMakeFiles/statebandit_check.dir
+C:/Users/Administrator/Desktop/vibetest/snake-nn-lab-main/build/CMakeFiles/train_probe.dir
+C:/Users/Administrator/Desktop/vibetest/snake-nn-lab-main/build/CMakeFiles/replay_check.dir
+C:/Users/Administrator/Desktop/vibetest/snake-nn-lab-main/build/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/vibetest/snake-nn-lab-main/build/CMakeFiles/rebuild_cache.dir
